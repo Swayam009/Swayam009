@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Swayambhu Hingane</h1>
 <h3 align="center">A wandering mind trying to find logic in the world!</h3>
 
-<img align="right" alt="home1" width="350" src="https://cdn.dribbble.com/users/1541964/screenshots/4529401/22.gif">
+<img align="right" alt="home1" width="300" src="https://cdn.dribbble.com/users/1541964/screenshots/4529401/22.gif">
 
 - 🔭 I’m currently working on **EV Drive mechanism**
 
