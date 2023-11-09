@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SolidWorks, ROS**
 
-- 👯 I’m looking to collaborate on **Hacktoberfest 2024**
+- 👯 I’m looking to collaborate on **EV project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Swayam009/Swayam009/wiki](https://github.com/Swayam009/Swayam009/wiki)
 
